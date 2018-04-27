@@ -1,0 +1,77 @@
+﻿@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+}
+html,body{
+	width:100%;
+	height:100%;
+}
+.row{
+    margin:0;
+	padding:0;
+}
+.tit{
+    font-weight: bold;
+    text-align: center;
+	line-height: 3rem;
+}
+.navbar-default {
+    background-color: #f8f8f8;
+    border-color: #fff;
+}
+.cont{
+    margin-top:6rem;
+}
+.kh{
+    text-align:center;
+	font-weight:bold;
+	color:#cc0000;
+	margin-bottom: 2rem;
+	margin-top: 2rem;
+}
+.tet{
+    text-align:center;
+	font-weight:bold;
+}
+.tg{
+    font-weight:bold;
+	text-align:center;
+}
+.j_j{
+    margin:0 auto;
+	width: 9rem;
+}
+.j_tet{
+    text-align:center;
+}
+.j_1{
+    margin-top:1rem;
+}
+.bt_sg{
+    width:100%;
+}
+
+
+.btn{
+    width:100%;
+	margin-top:1rem;
+}
+
+.btn1{
+    padding-right: 0px; 
+    padding-left: 0px; 
+}
+.btn{
+    width:100%;
+}
+.bott{
+    margin-top:0.5rem;
+}
+
+.btn-default {
+    color: #333;
+    background-color: #fff;
+    border-color: #fff;
+}

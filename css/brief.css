@@ -1,0 +1,89 @@
+﻿@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+}
+html,body{
+	width:100%;
+	height:100%;
+}
+.row{
+    margin:0;
+	padding:0;
+}
+.img_b{
+    display:inline;
+}
+.tit{
+    font-weight: bold;
+    text-align: center;
+	line-height: 3rem;
+}
+.navbar-default {
+    background-color: #f8f8f8;
+    border-color: #fff;
+}
+.img_1{
+    margin-top:5rem;
+}
+.tit_1{
+    text-align:center;
+	margin-top:2rem;
+	color: #cc0000;
+	font-weight:bold;
+}
+.yeas{
+    color:#ff8000;
+}
+.culture{
+    text-align:center;
+	padding-top: 1rem;
+	font-weight:bold;
+}
+.zd{
+    margin-top:5rem;
+	width:17rem;
+	margin:0 auto;
+	padding-bottom:2rem;
+}
+.phone{
+    text-align:center;
+	line-height:3rem;
+	font-weight:bold;
+}
+.lc{
+    color:#696969;
+}
+.about{
+    text-align:center;
+	color: #cc0000;
+}
+.p{
+    text-indent:2.2rem;
+	line-height:2.5rem;
+}
+
+.btn1{
+    padding-right: 0px; 
+    padding-left: 0px; 
+}
+.btn{
+    width:100%;
+}
+.bott{
+    margin-top:0.5rem;
+}
+/*
+.btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active, .open > .dropdown-toggle.btn-default {
+    color: #333;
+    background-color: #5bc0de;
+    border-color: #46b8da;
+}
+*/
+
+.btn-default {
+    color: #333;
+    background-color: #fff;
+    border-color: #fff;
+}

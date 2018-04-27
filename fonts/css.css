@@ -1,0 +1,94 @@
+﻿@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+}
+html,body{
+	width:100%;
+	height:100%;
+}
+/*导航开始*/
+.logo{
+    margin-top:-1em;
+}
+/*导航结束*/
+/*内容开始*/
+.cont{
+   margin-top:2em;
+   padding-bottom:5em;
+}
+.wz{
+   color:blue;
+   text-align:center;
+}
+.wz_p{
+   color:gray;
+   text-align:center;
+   margin-top:1.5em;
+}
+.cont_row{
+   margin-top:4em;
+}
+.con_left{
+   float:left;
+}
+.con_right{
+   width:30em;
+   float:right;
+   margin-left:-2em;
+}
+.con_right > del{
+   color:gray;
+   line-height:2.4em;
+}
+/*内容结束*/
+.cont_con{
+   width:100%;
+   height:25em;
+   background-color:lightgray;
+}
+.cont_w{
+   text-align:center;
+   padding-top:8em;
+}
+.cont_g{
+   width:15em;
+   height:15em;
+   margin-top:4em;
+   margin-left:8em;
+}
+.cont_w > p{
+   font-size:1.3em;
+}
+.cont_buttom{
+   padding-top:10em;
+}
+.cont_buttom_g{
+   width:24em;
+   height:17em; 
+   margin-left:6em;
+}
+.cont_buttom_w{
+   text-align:center;
+   padding-top:3em;
+}
+.cont_buttom_w > p{
+   font-size:1.3em;
+}
+/*底部开始*/
+.bottom{
+   background-color:gray;
+   width:100%;
+   height:6em;
+}
+.bottom_wz{
+   padding-top:1em;
+   text-align:center;
+   
+}
+.bottom_wz > small{
+   line-height:2em;
+   color:lightgray;
+}
+/*底部结束*/

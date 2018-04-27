@@ -1,0 +1,66 @@
+﻿@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;
+}
+html,body{
+	width:100%;
+	height:100%;
+}
+/*导航开始*/
+.logo{
+    margin-top:-1em;
+}
+/*导航结束*/
+
+/*巨幕开始*/
+.con{
+    margin-top:50px;
+    background-image:url("images/bg.jpg");
+    color:#ccc;
+    padding:5em 15em ;
+	
+}
+/*巨幕结束*/
+
+/*内容开始*/
+.a{
+    background-color:#ECECEC;
+	padding-bottom:2em;
+}
+.cont_a{
+    border:1px solid lightgray;
+	background-color:#fff;
+	margin-top:2.5em;
+	margin-left:2.5em;
+	width:18em;
+	padding-bottom:1em;
+	padding-top:1em;
+}
+.cont_a > h4{
+   text-align:center;
+   color:gray;
+}
+.cont_a > p{
+   text-align:center;
+   color:gray;
+}
+/*内容结束*/
+
+/*底部开始*/
+.bottom{
+   background-color:gray;
+   width:100%;
+   height:6em;
+}
+.bottom_wz{
+   padding-top:1em;
+   text-align:center;
+   
+}
+.bottom_wz > small{
+   line-height:2em;
+   color:lightgray;
+}
+/*底部结束*/
